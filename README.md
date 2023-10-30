@@ -18,11 +18,11 @@
     If you're searching for someone who can write code and solve problems, look no further. Check out my projects and contributions on GitHub, and don't hesitate to reach out if you are looking for a collaborator who is always willing to learn!
 </p>
 <p>
-    Let's create something, absolutely horrible or amazing (Whichever comes first)
+    Let's make some stuff!
 </p>
 
 <h2>
-    Here's some of the degrees and certs I picked up along the way:
+    Here's some of the degrees and certs I've picked up so far:
 </h2>
 <ul>
     <li>AS Computer Science - Spring 2023 Clovis Community College</li>
