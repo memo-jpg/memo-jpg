@@ -3,16 +3,16 @@
     Welcome to my Github profile!
 </h1>
 <h1>
-    My name is Guillermo Prado, but I prefer going by Memo.
+    My name is Guillermo, but I prefer going by Memo!
 </h1>
 <p>
-   I am a Computer Scientist with a strong interest in learning as much I possbily can in the ever-expanding field of CSCI! I've studied C++ and Computer Archieture at Clovis Community College for ~3-4 Years. I'm currently at CSU Fresno State, still as a Computer Science Student
+   I am a Computer Science student with a strong interest in learning as much I possbily can in the ever-expanding field of CSCI! I've studied C++ and some Unreal Engine 4 at Clovis Community College for ~3-4 Years. I'm currently at CSU Fresno State, still as a Computer Science Student
 </p>
 <p>
-   C++ is my primary programming language and I have a strong interest for game development and some of the more technical stuff like algorithms and data structures.
+   C++ is my primary programming language and I have a strong interest for game development and as well as learning web development on my own personal time.
 </p>
 <p>
-    When I am not coding, you can find me editing videos for my YouTube or exploring any of my other creative ventures.
+    When I am not coding, you can find me editing videos for my YouTube channel or exploring any of my other creative ventures.
 </p>
 <p>
     If you're searching for someone who can write code and solve problems, look no further. Check out my projects and contributions on GitHub, and don't hesitate to reach out if you are looking for a collaborator who is always willing to learn!
