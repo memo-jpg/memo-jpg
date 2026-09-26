@@ -34,13 +34,31 @@
 </h2>
 <div align="center">
     <img class="img" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
-     <img class="img" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img class="img" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-    <img class="img" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+   <img class="img" src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=grey&logoSize=svg"/> 
  </div>
+
  <h1 align="center">
 <div style="padding: 1em; display: flex; flex-direction: row; align-items: center; justify-content: center;">
     <img class="img" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <img class="img" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img class="img" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img class="img" src="https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=css&logoColor=white&logoSize=svg"/>
+    <img class="img" src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoSize=svg"/>
+    <img class="img" src="https://img.shields.io/badge/HTML-yellow?style=for-the-badge&logo=html5&logoColor=white&logoSize=svg"/>
 </div>
+
+ <h1 align="center">
+ <div style="padding: 1em; display: flex; flex-direction: row; align-items: center; justify-content: center;">
+    <img class="img" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+    <img class="img" src="https://img.shields.io/badge/Git-green?style=for-the-badge&logo=git&logoColor=white&logoSize=svg"/>
+    <img class="img" src="https://img.shields.io/badge/Godot-cyan?style=for-the-badge&logo=godotengine&logoColor=grey&logoSize=svg"/>
+    <img class="img" src="https://img.shields.io/badge/UE4-cyan?style=for-the-badge&logo=unrealengine&logoColor=grey&logoSize=svg"/>
+     
+ </div>
+
+ <h1 align="center">
+ <div style="padding: 1em; display: flex; flex-direction: row; align-items: center; justify-content: center;">
+     <img class="img" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img class="img" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+     <img class="img" src="https://img.shields.io/badge/Code%3A%3ABlocks-dgreen?style=for-the-badge&logo=codeblocks&logoColor=white&logoSize=svg"/>
+ </div>
