@@ -27,7 +27,7 @@
 <ul>
     <li>AS Computer Science - Spring 2023 Clovis Community College</li>
     <li>AS Mathematics - Spring 2023 Clovis Community College</li>
-    <liL>BS Computer Science - Spring 2026 California State University, Fresno</li>
+    <li>BS Computer Science - Spring 2026 California State University, Fresno</li>
 </ul>
 <h2 align="center"> 
     Some of the tools and languages, I've used before: 
